@@ -1,8 +1,8 @@
 import Image from 'next/image';
 import React, {useEffect, useState} from 'react';
 
-import bg_shape from "../../public/assets/img/platform/p-bg.png";
-import platform_img from "../../public/assets/img/payment/platform-1.png"; 
+import bg_shape from "/public/assets/img/platform/p-bg.png";
+import platform_img from "/public/assets/img/payment/platform-1.png"; 
 
 const platform_content ={
     sub_title: "About Us",

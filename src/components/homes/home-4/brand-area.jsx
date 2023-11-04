@@ -2,13 +2,13 @@ import React, {useRef} from 'react';
 import Image from 'next/image';
 import Slider from 'react-slick';
 
-import brand_img_1 from "../../../../public/assets/img/hero/hero-slider-icon-2.jpg";
-import brand_img_2 from "../../../../public/assets/img/hero/hero-slider-icon-3.jpg";
-import brand_img_3 from "../../../../public/assets/img/hero/hero-slider-icon-4.jpg";
-import brand_img_4 from "../../../../public/assets/img/hero/hero-slider-icon-5.jpg";
-import brand_img_5 from "../../../../public/assets/img/hero/hero-slider-icon-3.jpg";
-import shape_1 from "../../../../public/assets/img/brand/image_01.png";
-import shape_2 from "../../../../public/assets/img/hero/hero-slider-icon-1.png";
+import brand_img_1 from "/public/assets/img/hero/hero-slider-icon-2.jpg";
+import brand_img_2 from "/public/assets/img/hero/hero-slider-icon-3.jpg";
+import brand_img_3 from "/public/assets/img/hero/hero-slider-icon-4.jpg";
+import brand_img_4 from "/public/assets/img/hero/hero-slider-icon-5.jpg";
+import brand_img_5 from "/public/assets/img/hero/hero-slider-icon-3.jpg";
+import shape_1 from "/public/assets/img/brand/image_01.png";
+import shape_2 from "/public/assets/img/hero/hero-slider-icon-1.png";
 
 
 const settings = {

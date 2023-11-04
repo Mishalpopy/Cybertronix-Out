@@ -4,12 +4,11 @@ import Image from 'next/image';
 import React from 'react';
 import Slider from 'react-slick';
 
-import security_img_1 from "../../../../public/assets/img/security/security-1.png";
-import security_img_2 from "../../../../public/assets/img/security/security-2.png";
-import security_img_3 from "../../../../public/assets/img/security/security-3.png";
-import security_img_4 from "../../../../public/assets/img/security/security-4.png";
-// import security_img_5 from "../../../../public/assets/img/security/security-5.png";
-import security_img_6 from "../../../../public/assets/img/security/security-3.png";
+import security_img_1 from "/public/assets/img/security/security-1.png";
+import security_img_2 from "/public/assets/img/security/security-2.png";
+import security_img_3 from "/public/assets/img/security/security-3.png";
+import security_img_4 from "/public/assets/img/security/security-4.png";
+import security_img_6 from "/public/assets/img/security/security-3.png";
 
 const setting = {
     speed: 7000,
