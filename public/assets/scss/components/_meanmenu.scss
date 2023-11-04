@@ -79,13 +79,13 @@
 .mean-container .mean-nav ul li a {
 	width: 100%;
 	padding: 15px 0;
-	color: #fff;
+	color: black;
 	border-top: 1px solid rgba(255, 255, 255, 0.1);
 	font-size: 14px;
 	line-height: 1.5;
 	font-weight: 700;
     &:hover{
-        color: var(--tp-theme-3);
+        color: var(--tp-common-yellow-3);
     }
 }
 

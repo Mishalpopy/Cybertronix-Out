@@ -5,7 +5,7 @@ import React,{useState} from 'react';
 import NavMenu from './nav-menu';
 import Image from 'next/image';
 
-import logo from "../../../public/assets/img/logo/logo-black.png";
+import logo from "/public/assets/img/logo/logo-black.png";
 
 const HeaderFive = () => {
    const {sticky}  =  useSticky()
